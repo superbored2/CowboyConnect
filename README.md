@@ -11,7 +11,7 @@ CowboyConnect is a mobile app built with Thunkable to help OSU students and facu
 
 # Theme
 **Main Theme**: Improving the lives of OSU’s surrounding communities  
-**Sub-Theme**: Education, Public Services
+**Sub-Theme**: Education and Public Services
 
 ---
 # Screenshots
@@ -30,9 +30,9 @@ CowboyConnect is a mobile app built with Thunkable to help OSU students and facu
 ---
 
 # Use Cases
-- First-year or returning students navigating campus
-- Faculty locating classrooms
-- Students checking daily schedules and grades
+- First-year or returning students navigating campus.
+- Faculty locating classrooms or updating students in case of a room change.
+- Students checking daily schedules and grades instead of logging in through other websites.
 
 ---
 
