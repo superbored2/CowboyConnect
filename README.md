@@ -4,7 +4,7 @@ CowboyConnect is a mobile app built with Thunkable to help OSU students and facu
 
 - View personalized class schedules
 - Navigate building interiors with interactive floor maps
-- See their live location inside campus buildings
+- See live location inside campus buildings and guide user where to go
 - View grades and course info
 
 ---
@@ -14,6 +14,7 @@ CowboyConnect is a mobile app built with Thunkable to help OSU students and facu
 **Sub-Theme**: Education and Public Services
 
 ---
+
 # Screenshots
 <p float="left">
   
